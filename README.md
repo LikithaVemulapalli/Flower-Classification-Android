@@ -5,9 +5,13 @@ Take a picture of a flower either Rose or Sunflower and the app will predict the
 
 Flower image screenshots predicted through app.
 
-![Alt text](relative/https://github.com/LikithaVemulapalli/Flower-Classification-Android.git/to/Rose.jpg?raw=true "Rose")
+<h3>Rose</h3>
+<img src="https://github.com/https://github.com/LikithaVemulapalli/Flower-Classification-Android.git/blob/master/Rose.jpg" width="200" height="400">
 
-![Alt text](relative/https://github.com/LikithaVemulapalli/Flower-Classification-Android.git/to/SunFlower.jpg?raw=true "SunFlower")
+<h3>SunFlower</h3>
+<img src="https://github.com/https://github.com/LikithaVemulapalli/Flower-Classification-Android.git/blob/master/SunFlower.jpg" width="200" height="400">
+
+
 
 
 
