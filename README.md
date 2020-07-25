@@ -5,8 +5,10 @@ Take a picture of a flower either Rose or Sunflower and the app will predict the
 
 Flower image screenshots predicted through app.
 
-![Alt text](/relative/path/to/Rose.jpg?raw=true "Rose")
+Rose
+![Screenshot](Rose.png)
 
-![Alt text](/relative/path/to/SunFlower.jpg?raw=true "SunFlower")
+SunFlower
+![Screenshot](SunFlower.png)
 
 
