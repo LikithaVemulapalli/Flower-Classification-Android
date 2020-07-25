@@ -6,9 +6,13 @@ Take a picture of a flower either Rose or Sunflower and the app will predict the
 Flower image screenshots predicted through app.
 
 Rose
-![Screenshot](Rose.png)
+<div align="center">
+    <img src="/screenshots/Rose.jpg" width="400px"</img> 
+</div>
 
 SunFlower
-![Screenshot](SunFlower.png)
+<div align="center">
+    <img src="/screenshots/SunFlower.jpg" width="400px"</img> 
+</div>
 
 
